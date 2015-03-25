@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
     <metadata>
-        <id>Punchclock</id>
-        <version>1.2.0</version>
-        <authors>Paul Betts</authors>
-        <licenseUrl>https://github.com/paulcbetts/punchclock/blob/master/COPYING</licenseUrl>
-        <projectUrl>https://github.com/paulcbetts/punchclock</projectUrl>
+        <id>SE.Punchclock</id>
+        <version>1.2.2-rc1</version>
+        <authors>Schneider Electric</authors>
+        <licenseUrl>https://github.com/SchneiderElectricCloud/punchclock/blob/master/COPYING</licenseUrl>
+        <projectUrl>https://github.com/SchneiderElectricCloud/punchclock</projectUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>Make sure your asynchronous operations show up to work on time</description>
         <tags>portable, async, rx</tags>
